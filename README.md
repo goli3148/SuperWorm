@@ -9,7 +9,7 @@ write this command in CMD of Windows:
 ```
 write this command in terminal of linux\Mac:
 ```
-$ python -m pip install Django
+$ python -m pip install pygame
 ```
 
 ## Play Game
